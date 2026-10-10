@@ -22,6 +22,6 @@ Based in Poland 🇵🇱
 
 ## 📫 Connect
 
-- Email: ivan.bezniak@layla.ai
+- Email: ivan.external@layla.ai
 - LinkedIn: [Ivan Bezniak](https://www.linkedin.com/in/ivan-bezniak)
 - Working on: [Layla.ai](https://justasklayla.com)
